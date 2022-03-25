@@ -12,3 +12,35 @@
     margin-right: 40px;
     margin-top: 40px;
 }
+.cart-title{
+    text-align: center;
+}
+.choose-random{
+    border: 0;
+    color: black;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 17px;
+    margin-right: 2px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.choose-random:hover{
+    background-color: rgb(39, 28, 28);
+    color: #FFFFFF;
+    transition: 0.2s all ease;
+}
+.reset{
+    border: 0;
+    color: black;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.reset:hover{
+    background-color: rgb(39, 28, 28);
+    color: #FFFFFF;
+    transition: 0.2s all ease;
+}

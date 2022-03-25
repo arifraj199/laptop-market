@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Item from '../Item/Item';
 import Laptop from '../Laptop/Laptop';
+import { randomSelect } from '../randomSelect/randomSelect';
 import './Products.css';
 
 const Products = () => {
@@ -13,9 +14,14 @@ const Products = () => {
         .then(data=>setProducts(data))
     },[])
 
+    const randomSelect = () => {
+        let randomItem = [];
+        const picker = Math.floor(Math.random() * items.length);
+        randomItem.push(items[picker]);
+        setItem(randomItem);
+    }
+
     const handleButton = selectedItem => {
-        // console.log(id);
-        // console.log(selectedItem);
         let newItem=[];
         const exists = items.find(product=> product.id === selectedItem.id);
         if(!exists){
@@ -26,7 +32,9 @@ const Products = () => {
             newItem = [...rest,exists];
         }
         setItem(newItem);
+        
     }
+    
 
     return (
         <div className='products-container'>
@@ -41,7 +49,7 @@ const Products = () => {
                 }
             </div>
             <div className='cart-container'>
-                <h2>Cart Container</h2>
+                <h2 className='cart-title'>Order Item</h2>
                 <h3>Selected Item</h3>
                 {
                     items.map(item=> <Item
@@ -49,6 +57,10 @@ const Products = () => {
                         item={item}
                     ></Item>)
                 }
+                <div>
+                    <button onClick={randomSelect} className='choose-random'>Choose Item Randomly</button>
+                    <button className='reset'>Reset</button>
+                </div>
             </div>
         </div>
     );

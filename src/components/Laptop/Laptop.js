@@ -2,10 +2,9 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingBasket } from '@fortawesome/free-solid-svg-icons';
 import './Laptop.css';
-import Item from '../Item/Item';
 
 const Laptop = (props) => {
-    const {img,name,price,id} = props.product;
+    const {img,name,price} = props.product;
     const {product} = props;
     
     
