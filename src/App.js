@@ -7,7 +7,7 @@ function App() {
     <div>
       <div className='title-container'>
         <h1>Laptop Market</h1>
-        <p>get your product</p>
+        <p>Get your product</p>
       </div>
       <Products></Products>
     </div>

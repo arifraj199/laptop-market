@@ -3,6 +3,7 @@
     height: 500px;
     border: 3px solid rgb(230, 212, 212);
     border-radius: 12px;
+    position: relative;
 }
 .laptop-info img{
     width: 295px;
@@ -20,4 +21,26 @@
 .laptop-price{
     font-size: 20px;
     font-weight: 500;
+}
+.btn-cart{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    background: #FFE0B3;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 8px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-cart p{
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 5px;
+}
+.btn-cart:hover{
+    color: white;
+    background-color: darkgreen;
+    transition: 0.2s all ease;
 }
