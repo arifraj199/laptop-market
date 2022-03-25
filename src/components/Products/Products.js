@@ -21,6 +21,11 @@ const Products = () => {
         setItem(randomItem);
     }
 
+    const reset = () => {
+        let resetItem = [];
+        setItem(resetItem);
+    }
+
     const handleButton = selectedItem => {
         let newItem=[];
         const exists = items.find(product=> product.id === selectedItem.id);
@@ -35,7 +40,6 @@ const Products = () => {
         
     }
     
-
     return (
         <div className='products-container'>
             <div className='laptop-container'>
@@ -59,7 +63,7 @@ const Products = () => {
                 }
                 <div>
                     <button onClick={randomSelect} className='choose-random'>Choose Item Randomly</button>
-                    <button className='reset'>Reset</button>
+                    <button onClick={reset} className='reset'>Reset</button>
                 </div>
             </div>
         </div>

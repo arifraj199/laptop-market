@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
     background-color: rgb(253, 247, 247);
-  
+    padding: 50px 0;
 }
 .laptop-container{
     display: grid;
@@ -11,6 +11,10 @@
     margin-left: 40px;
     margin-right: 40px;
     margin-top: 40px;
+    
+}
+.cart-container{
+    margin-right: 10px;
 }
 .cart-title{
     text-align: center;

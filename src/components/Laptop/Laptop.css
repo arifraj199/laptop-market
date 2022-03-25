@@ -1,22 +1,23 @@
 .laptop-info{
-    width: 300px;
+    width: 330px;
     height: 500px;
-    border: 1px solid rgb(230, 212, 212);
+    border: 2px solid rgb(246, 238, 238);
     border-radius: 8px;
     position: relative;
     background-color: #FFFFFF;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 
 }
 .laptop-info img{
-    width: 295px;
+    width: 320px;
     height: 288px;
     border-radius: 8px;
-    margin: 2px;
+    margin-left: 4px;
+    margin-top: 4px;
     
 }
 .laptop-detail{
-    padding-left: 5px;
+    padding-left: 8px;
 }
 .laptop-title{
     font-size: 24px;
@@ -32,7 +33,7 @@
     bottom: 0;
     height: 60px;
     background: #FFE0B3;
-    border: 1px solid #95A0A7;
+    border: 1px solid #e4eef5;
     border-radius: 0px 0px 8px 8px;
     display: flex;
     justify-content: center;
