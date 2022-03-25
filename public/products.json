@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "img":"../src/images/hp_da00x.jpg",
+      "name": "HP 15s-du1115TU Celeron N4020 15.6\" HD Laptop",
+      "price": 33200
+    },
+    {
+      "id": 2,
+      "img":"../src/images/lenovo.jpg",
+      "name": "Lenovo IdeaPad Slim 3i 15IGL Intel Celeron N4020 15.6\" HD Laptop",
+      "price": 53200
+    },
+    {
+      "id": 3,
+      "img":"../src/images/dell.jpg",
+      "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15.6\" HD Laptop",
+      "price": 63200
+    },
+    {
+      "id": 4,
+      "img":"../src/images/asus.jpg",
+      "name": "Asus Vivobook X515MA Celeron N4020 15.6\" FHD Laptop",
+      "price": 47200
+    },
+    {
+      "id": 5,
+      "img":"../src/images/acer.jpg",
+      "name": "Acer Extensa 15 EX215-52-384M Core i3 10th Gen 15.6\" FHD Laptop",
+      "price": 57500
+    },
+    {
+      "id": 6,
+      "img":"../src/images/hp_probook.jpg",
+      "name": "HP 15s-du1086TU Intel Celeron N4020 15.6 inch FHD Laptop with Win 10",
+      "price": 43520
+    },
+    {
+      "id": 7,
+      "img":"../src/images/samsung.jpg",
+      "name": "Samsung Galaxy Book Pro 360 Core i7 11th Gen 2-in-1 1TB SSD 15.6\" FHD Touch Laptop",
+      "price": 53200
+    },
+    {
+      "id": 8,
+      "img":"../src/images/macbook_air.jpg",
+      "name": "Apple MacBook Pro 13.3-Inch Core i5-2.0GHz, 16GB RAM, 1TB SSD With Touch Bar (MWP82) Silver 2020",
+      "price": 133200
+    },
+    {
+      "id": 9,
+      "img":"../src/images/huawei.jpg",
+      "name": "Huawei MateBook D15 AMD Ryzen 5 3500U 256GB SSD 15.6-inch FHD Laptop",
+      "price": 46700
+    },
+    {
+      "id": 10,
+      "img":"../src/images/acer_gaming.jpg",
+      "name": "Asus TUF Gaming F15 FX506LH Core i5 10th Gen GTX 1650 4GB Graphics 15.6\" FHD Gaming Laptop with Windows 11",
+      "price": 125200
+    },
+    {
+      "id": 11,
+      "img":"../src/images/walton.jpg",
+      "name": "Walton Passion BP5800 Core i5 8th Gen 15.6\" HD Laptop",
+      "price":43200
+    },
+    {
+      "id": 12,
+      "img":"../src/images/apple.jpg",
+      "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 512GB SSD (MGNA3) Silver",
+      "price": 143200
+    }
+  ]
