@@ -29,14 +29,21 @@
 }
 .title-container{
   text-align: center;
+  background-color: #242935;
 }
 .title-container p{
   margin-top: 0;
   font-size: 18px;
   font-weight: 500;
+  color: #FFFFFF;
+  margin-bottom: 0;
+  padding-bottom: 30px;
 }
 .title-container h1{
   margin-bottom: 0;
+  color: #FFFFFF;
+  margin-top: 0;
+  padding-top: 30px;
 }
 
 @keyframes App-logo-spin {
