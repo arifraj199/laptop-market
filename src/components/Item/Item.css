@@ -1,0 +1,17 @@
+.selected-item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.selected-item img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.selected-item p{
+    margin-right: 10px;
+}
+.item-icon{
+    font-size: 22px;
+}
