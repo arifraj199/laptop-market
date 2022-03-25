@@ -1,9 +1,15 @@
 import React from 'react';
+import './Laptop.css'
 
 const Laptop = (props) => {
-    console.log(props);
+    const {img,name,price} = props.product;
     return (
-        <div>
+        <div className='laptop-info'>
+            <img src={img} alt="" />
+            <div className='laptop-detail'>
+                <p className='laptop-title'>{name}</p>
+                <p className='laptop-price'>Price: {price}TK</p>
+            </div>
             
         </div>
     );

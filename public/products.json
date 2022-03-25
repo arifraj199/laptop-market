@@ -1,74 +1,74 @@
 [
     {
       "id": 1,
-      "img":"../src/images/hp_da00x.jpg",
-      "name": "HP 15s-du1115TU Celeron N4020 15.6\" HD Laptop",
+      "img":"https://images.unsplash.com/photo-1604684768394-52a862c2955a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aHAlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "HP 15s-du1115TU Celeron ",
       "price": 33200
     },
     {
       "id": 2,
-      "img":"../src/images/lenovo.jpg",
-      "name": "Lenovo IdeaPad Slim 3i 15IGL Intel Celeron N4020 15.6\" HD Laptop",
+      "img":"https://images.unsplash.com/photo-1609240873613-95b7d2f1522f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGVub3ZvJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Lenovo IdeaPad Slim ",
       "price": 53200
     },
     {
       "id": 3,
-      "img":"../src/images/dell.jpg",
-      "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15.6\" HD Laptop",
+      "img":"https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aHAlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Dell Inspiron 15 ",
       "price": 63200
     },
     {
       "id": 4,
-      "img":"../src/images/asus.jpg",
-      "name": "Asus Vivobook X515MA Celeron N4020 15.6\" FHD Laptop",
+      "img":"https://images.unsplash.com/photo-1636211990414-8edec17ba047?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFjZXIlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Asus Vivobook X515MA ",
       "price": 47200
     },
     {
       "id": 5,
-      "img":"../src/images/acer.jpg",
-      "name": "Acer Extensa 15 EX215-52-384M Core i3 10th Gen 15.6\" FHD Laptop",
+      "img":"https://images.unsplash.com/photo-1593642634524-b40b5baae6bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YXN1cyUyMGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Acer Extensa 15 ",
       "price": 57500
     },
     {
       "id": 6,
-      "img":"../src/images/hp_probook.jpg",
-      "name": "HP 15s-du1086TU Intel Celeron N4020 15.6 inch FHD Laptop with Win 10",
+      "img":"https://images.unsplash.com/photo-1589561084283-930aa7b1ce50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aHAlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "HP 15s-du1086TU Intel ",
       "price": 43520
     },
     {
       "id": 7,
-      "img":"../src/images/samsung.jpg",
-      "name": "Samsung Galaxy Book Pro 360 Core i7 11th Gen 2-in-1 1TB SSD 15.6\" FHD Touch Laptop",
+      "img":"https://images.unsplash.com/photo-1636211992838-251a43d72ad2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGFzdXMlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Samsung Galaxy Book Pro ",
       "price": 53200
     },
     {
       "id": 8,
-      "img":"../src/images/macbook_air.jpg",
-      "name": "Apple MacBook Pro 13.3-Inch Core i5-2.0GHz, 16GB RAM, 1TB SSD With Touch Bar (MWP82) Silver 2020",
+      "img":"https://images.unsplash.com/photo-1514395659518-2e1c59302e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2Jvb2slMjBhcHBsZSUyMGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Apple MacBook Pro ",
       "price": 133200
     },
     {
       "id": 9,
-      "img":"../src/images/huawei.jpg",
-      "name": "Huawei MateBook D15 AMD Ryzen 5 3500U 256GB SSD 15.6-inch FHD Laptop",
+      "img":"https://images.unsplash.com/photo-1592434134753-a70baf7979d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Huawei MateBook D15",
       "price": 46700
     },
     {
       "id": 10,
-      "img":"../src/images/acer_gaming.jpg",
-      "name": "Asus TUF Gaming F15 FX506LH Core i5 10th Gen GTX 1650 4GB Graphics 15.6\" FHD Gaming Laptop with Windows 11",
+      "img":"https://images.unsplash.com/photo-1630794180018-433d915c34ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YXN1cyUyMGdhbWluZyUyMGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Asus TUF Gaming F15 FX506LH ",
       "price": 125200
     },
     {
       "id": 11,
-      "img":"../src/images/walton.jpg",
-      "name": "Walton Passion BP5800 Core i5 8th Gen 15.6\" HD Laptop",
+      "img":"https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Walton Passion BP5800 ",
       "price":43200
     },
     {
       "id": 12,
-      "img":"../src/images/apple.jpg",
-      "name": "Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 512GB SSD (MGNA3) Silver",
+      "img":"https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Apple MacBook Air ",
       "price": 143200
     }
   ]

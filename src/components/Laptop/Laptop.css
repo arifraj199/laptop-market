@@ -1,0 +1,23 @@
+.laptop-info{
+    width: 300px;
+    height: 500px;
+    border: 3px solid rgb(230, 212, 212);
+    border-radius: 12px;
+}
+.laptop-info img{
+    width: 295px;
+    height: 288px;
+    border-radius: 12px;
+    margin: 2px;
+}
+.laptop-detail{
+    margin-left: 2px;
+}
+.laptop-title{
+    font-size: 22px;
+    font-weight: 700;
+}
+.laptop-price{
+    font-size: 20px;
+    font-weight: 500;
+}
