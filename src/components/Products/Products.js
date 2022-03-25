@@ -53,17 +53,19 @@ const Products = () => {
                 }
             </div>
             <div className='cart-container'>
-                <h2 className='cart-title'>Order Item</h2>
-                <h3>Selected Item</h3>
-                {
-                    items.map(item=> <Item
-                        key={item.id}
-                        item={item}
-                    ></Item>)
-                }
-                <div>
-                    <button onClick={randomSelect} className='choose-random'>Choose Item Randomly</button>
-                    <button onClick={reset} className='reset'>Reset</button>
+                <div className='sticky-div'>
+                    <h2 className='cart-title'>Order Item</h2>
+                    <h3>Selected Item</h3>
+                    {
+                        items.map(item=> <Item
+                            key={item.id}
+                            item={item}
+                        ></Item>)
+                    }
+                    <div>
+                        <button onClick={randomSelect} className='choose-random'>Choose Item Randomly</button>
+                        <button onClick={reset} className='reset'>Reset</button>
+                    </div>
                 </div>
             </div>
         </div>
