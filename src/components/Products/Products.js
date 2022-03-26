@@ -38,6 +38,13 @@ const Products = () => {
         setItem(newItem);
         
     }
+
+    const handleTrash = (product)=>{
+        let trashProduct = [];
+        const rest = items.filter(item=> item.id !== product.id);
+        trashProduct = [...rest];
+        setItem(trashProduct);
+    }
     
     return (
         <div className='products-container'>
@@ -59,6 +66,7 @@ const Products = () => {
                         items.map(item=> <Item
                             key={item.id}
                             item={item}
+                            handleTrash={handleTrash}
                         ></Item>)
                     }
                     <div>
