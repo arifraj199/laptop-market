@@ -1,16 +1,17 @@
 [
     {
       "id": 1,
-      "img":"https://images.unsplash.com/photo-1604684768394-52a862c2955a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aHAlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      "name": "HP 15s-du1115TU Celeron ",
-      "price": 33200
+      "img":"https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Apple MacBook Air ",
+      "price": 143200
     },
     {
       "id": 2,
-      "img":"https://images.unsplash.com/photo-1609240873613-95b7d2f1522f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGVub3ZvJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "name": "Lenovo IdeaPad Slim ",
-      "price": 53200
+      "img":"https://images.unsplash.com/photo-1592434134753-a70baf7979d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Huawei MateBook D15",
+      "price": 46700
     },
+
     {
       "id": 3,
       "img":"https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aHAlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -49,9 +50,9 @@
     },
     {
       "id": 9,
-      "img":"https://images.unsplash.com/photo-1592434134753-a70baf7979d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "name": "Huawei MateBook D15",
-      "price": 46700
+      "img":"https://images.unsplash.com/photo-1609240873613-95b7d2f1522f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGVub3ZvJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Lenovo IdeaPad Slim ",
+      "price": 53200
     },
     {
       "id": 10,
@@ -67,8 +68,9 @@
     },
     {
       "id": 12,
-      "img":"https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhwJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "name": "Apple MacBook Air ",
-      "price": 143200
+      "img":"https://images.unsplash.com/photo-1604684768394-52a862c2955a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aHAlMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "HP 15s-du1115TU Celeron ",
+      "price": 33200
     }
+    
   ]

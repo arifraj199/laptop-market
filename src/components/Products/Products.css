@@ -77,5 +77,6 @@
     }
     .choose-random,.reset{
         font-size: 15px;
+        text-align: justify;
     }
 }

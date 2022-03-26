@@ -4,7 +4,6 @@ import React from 'react';
 import './Item.css';
 
 const Item = (props) => {
-    // console.log(item);
     const {img,name} = props.item;
     return (
         <div>

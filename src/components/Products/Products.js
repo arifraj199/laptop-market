@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Item from '../Item/Item';
 import Laptop from '../Laptop/Laptop';
-import { randomSelect } from '../randomSelect/randomSelect';
 import './Products.css';
 
 const Products = () => {
