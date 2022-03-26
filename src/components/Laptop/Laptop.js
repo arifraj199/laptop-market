@@ -16,8 +16,8 @@ const Laptop = (props) => {
                 <p className='laptop-price'>Price: {price}TK</p>
             </div>
             <button onClick={()=>props.handleButton(product)} className='btn-cart'>
-                <p>Add To Cart</p>
-                <FontAwesomeIcon icon={faShoppingBasket}></FontAwesomeIcon>
+                    <p>Add To Cart</p>
+                    <FontAwesomeIcon icon={faShoppingBasket}></FontAwesomeIcon>
             </button>
         </div>
     );

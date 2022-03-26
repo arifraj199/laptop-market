@@ -55,7 +55,7 @@ const Products = () => {
             <div className='cart-container'>
                 <div className='sticky-div'>
                     <h2 className='cart-title'>Order Item</h2>
-                    <h3>Selected Item</h3>
+                    <h3 className='select-item'>Selected Item</h3>
                     {
                         items.map(item=> <Item
                             key={item.id}

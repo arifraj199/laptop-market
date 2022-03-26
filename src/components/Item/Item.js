@@ -9,9 +9,11 @@ const Item = (props) => {
     return (
         <div>
             <div className='selected-item'>
-                <img src={img} alt="" />
-                <p>{name}</p>
-                <FontAwesomeIcon className='item-icon' icon={faTrash}></FontAwesomeIcon>
+                <div className='item-container'>
+                    <img src={img} alt="" />
+                    <p>{name}</p>
+                    <FontAwesomeIcon className='item-icon' icon={faTrash}></FontAwesomeIcon>
+                </div>
             </div>
         </div>
     );
